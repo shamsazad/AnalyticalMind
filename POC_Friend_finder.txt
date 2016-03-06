@@ -1,0 +1,26 @@
+Proof of Concept for Friend_Finder
+
+A software that can find your friend on Map and text them when the reaches a particular position on Map:
+
+	Challenges:
+		1) Not a lot of Apps on market
+		2) Promotion 
+		3) Lots of challenges using MAP class from google
+		4) Lots of security flow
+		5) Zero experience in this domain(Android)
+
+	Functionality(for release 1.0)
+		1) Find the actual position on map for friends or group of friends:
+		2) Send text like watsapp when someone reaches a particular position onMap
+		3) Share photos and documents live.
+
+	Needed
+		1) An Android App.
+
+	Technology needed.
+		1) Android development.
+		2) Messaging API
+		3) Google Map API 
+
+	
+ 	
