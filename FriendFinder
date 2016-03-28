@@ -1,0 +1,27 @@
+Two ways - Guest or registered user
+-How the user's profile should be created. In other words, what can help us to find the roommate that fits best in user's preferences.
+      -- Filter 
+-How useres are asked to provide info ;considering their time limit 
+      -- Discuss the algo
+-ease of search
+      -- Algo
+-accuracy of the results, users are asked to add weight to their serach critera
+-flexibility of search; user can modify the search critera anytime to get the updated result
+      -- Requirement
+-modified search algothim based on users' feedback
+-How we can keep the user?
+- architecture from back to front.
+- functionality at front end.
+- Start coding front-end and register the domain.
+
+
+==Architecture.
+- Number of filters decide number of table.
+    ## We need to decide number of filter.
+- Information we need to ask [ inffer].
+   
+- Design table.
+- Searching Algo.
+- Content in web page
+  - responsive web page.
+- 
