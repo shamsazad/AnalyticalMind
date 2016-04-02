@@ -1,0 +1,15 @@
+Student or professional
+Student:
+   what courses?
+   which year?
+Professional:
+   profession
+   job timings and working days
+
+type of roommates (give options who preferred party, going out or  study)
+Location (nearby pincode) within how many kms room needed
+
+
+I really like this website.
+They have really good name too.
+http://pawslikeme.com/
