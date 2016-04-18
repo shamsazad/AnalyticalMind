@@ -1,0 +1,33 @@
+Primary filters:
+  1.Budget
+  2.Flexible date (Trial period when you can decide)
+  3.Location  ( It can be defined in two different ways: given the 
+               postal code of the desired place, does he want to find the available places nearby (neighborhood preference)
+               Or he can define the maximum time he is willing to commute using the public transportation system (flexible neighborhood )
+  4.Long-term/Short-term (for instance a three-month internship vs. a full time student)
+  5.Private sections (bedroom, bathroom) (does he prefer to have his bedroom or he is more concerned about the budget..or he hasn't decided yet)
+  
+
+               
+Secondary Filters:
+1. How many people are sharing the place?
+  1.1. Does everyone has its own bedroom or the public area is shared?
+2.Gender (Gender specific, no preference)  
+3.Nationality 
+4.Accessibility to amenities including grocery stores, drugstores, banks)
+5.Pets
+6.Timing of co-tenants
+7. The status of the tenants living in the place.( students, interns , no preference )
+   
+Tertiary Filters:
+1. Interests/hobbies
+2. Smoking/non-smoking
+3. party is allowed/not allowed
+
+
+Our functionality:
+labelize the ads
+-eco
+-a good label for the apartments where you are exposed to native language speakers
+
+Question: I am wondering whether this web site can be used for those who provide home stay as well? If yes few new critera should be added.
