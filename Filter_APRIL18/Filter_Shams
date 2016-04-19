@@ -1,0 +1,30 @@
+Primary Filters
+1) Age
+2) Profession - can select as many option as want [use radio button]
+3) Apartement type [furnished/unfurnished and size 2 1/2, 3 1/2 etc]
+4) Sex
+5) Budget
+
+Secondary Filters
+1) University Name/Office name [Need to discuss]
+2) Features of room 
+    - Size
+    - Sunny
+    - Windows
+3) Building Animeties
+    - Swiming pool/Gym
+4) Type of Building 
+    - Condo [High Rise/Town house]
+5) Neighbourhood
+    - Cafe/Grocery store/Quite/
+6) Public Transaport
+    - Bus [ how far in meter or how much time does it take to reach there]
+    - Metro
+    - Train
+7) Parking
+    - Indore/Street
+    
+Tertiary Filters [If possible]
+1) Security - [janitor]
+2) Floor if Condo
+3) View
