@@ -1,0 +1,37 @@
+Proof of Concept for Cloud data Analyzer
+
+A software that can analyze the sales Data of stores:
+
+	Challenges:
+		1) Already lots of software in market
+		2) No one wanna shares sales data
+		3) Finding clients
+		4) Some innovation
+		5) May take longer time to deliver
+
+	Functionality(for release 1.0)
+		1) Analyze sale data to figure out the following:
+			a) Best product
+			b) Sale,profit and lose
+			c) Simple inventory for cashier
+			d) Cart arrangement (which product need to put together)
+			e) Recommendation using history data.
+		2) Managing Human resources.
+			a) What is the peak time and day for your business
+				- This will let to know how many workers are needed
+			b) Which section requires more work force.
+		3) Managing emails for delivery.
+
+	Needed
+		1) Responsive front end - for invertory.(Say A)
+		2) Different responsive front end to visualize history (Say B)
+		3) B can have different page for Human resource.
+
+	Technology needed.
+		1) Bootstrap or react for front end.
+		2) Web services
+		3) Cloud services
+		4) MangoDB 
+
+	
+ 	
