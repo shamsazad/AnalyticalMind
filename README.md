@@ -1,6 +1,6 @@
 # AnalyticalMind
 Need to update this file
-
+## I will update it soon
 1) Why we wanna jump into market which seems to be saturated already?
   - Because of cloud
   - We can follow Gartner to see which are the products listed there.
